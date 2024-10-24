@@ -2,7 +2,7 @@
 ---
 #### About me
 
-Hello I'm Ender! I'm a 19yo student studying in the general IT field. I enjoy working with servers and writing small scripts.
+Hello I'm Ender! I'm a 20yo student studying in the general IT field. I enjoy working with servers and writing small scripts.
 
 <!--
 **EnderBow/EnderBow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
